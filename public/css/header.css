@@ -24,7 +24,7 @@
   }
   
   header.roll a, header.roll i{
-    color: #0e0c57;
+    color: #26486d;
   }
   
   header i{
@@ -44,6 +44,12 @@
   header ul li a{
     color: #ffffff;
     text-decoration: none;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+
+  header ul li a:hover {
+    color: #d5a983;
+    text-decoration: none; 
   }
   
   .logonav {
