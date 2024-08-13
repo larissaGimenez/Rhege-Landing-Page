@@ -31,7 +31,7 @@
                 </ul>
             </nav>
             <div class="btn-contato">
-                <a href="#"><button>Contato</button></a>
+                <a href="https://api.whatsapp.com/send?phone=5519988358281"><button>CONTATO</button></a>
             </div>
         </div>
     </div>

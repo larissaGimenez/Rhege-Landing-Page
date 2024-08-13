@@ -80,10 +80,21 @@ header.roll .logonav {
     width: 120px;
     height: 40px;
     border: 0;
-    background-color: #e0e0e0;
-    color: black;
+    border-radius: 5px;
+    background-color: #ffffff;
+    font-size: 1em;
+    color: #26486d;
     cursor: pointer;
-    transition: .2s;
+    transition: background-color 0.3s ease;
+  }
+
+  header.roll .btn-contato button{
+    background-color: #d5a983;
+    color: #ffffff;
+  }
+
+  .custom-btn:hover {
+    background-color: #0056b3;
   }
 
   .banner h1{ 
