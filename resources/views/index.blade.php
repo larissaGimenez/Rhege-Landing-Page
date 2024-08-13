@@ -21,7 +21,7 @@
     <header id="header">
         <div class="container-nav">
             <div class="flex-nav">
-                <a href="#"><img src="css/images/logo.png" alt="logo" style="height: 50px; margin-right: 10px;"></a>
+                <a href="#"><img src="css/images/logo.png" alt="logo" style="height: 80px; margin-right: 10px;"></a>
                     <nav>
                         <ul id="nav_list">
                             <li class="nav-item">
