@@ -19,12 +19,12 @@
   }
   
   header.roll{
-    background-color: #26486d;
+    background-color: #ffffff;
     padding:  10px 4%;
   }
   
   header.roll a, header.roll i{
-    color: #ffffff;
+    color: #0e0c57;
   }
   
   header i{
@@ -49,11 +49,15 @@
   .banner{
     height: 100vh;
     background-image: url(images/banner.png);
-    background-position: center;
+    background-position: 100% 0;
     background-repeat: no-repeat;
     background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
   }
-  
+
   .btn-contato button{
     width: 120px;
     height: 40px;
@@ -62,4 +66,15 @@
     color: black;
     cursor: pointer;
     transition: .2s;
+  }
+
+  .banner h1{ 
+    font-size: 6em;
+    font-weight: 900;
+    margin: auto;
+    color: #ffffff;
+  }
+
+  .banner h1 span{
+    color: #ffffff;
   }
