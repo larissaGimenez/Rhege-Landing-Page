@@ -52,6 +52,11 @@
     transition: height 0.3s ease;
 }
 
+header.roll .logonav {
+  content: url('images/logo-roll.png');
+  height: 60px;
+}
+
   .banner{
     height: 100vh;
     background-image: url(images/banner.png);
