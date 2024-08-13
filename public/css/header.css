@@ -46,6 +46,12 @@
     text-decoration: none;
   }
   
+  .logonav {
+    height: 80px;
+    margin-right: 10px;
+    transition: height 0.3s ease;
+}
+
   .banner{
     height: 100vh;
     background-image: url(images/banner.png);

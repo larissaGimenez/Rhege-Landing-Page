@@ -18,32 +18,24 @@
 <body>
     
     <!-- Navbar -->
-    <header id="header">
-        <div class="container-nav">
-            <div class="flex-nav">
-                <a href="#"><img src="css/images/logo.png" alt="logo" style="height: 80px; margin-right: 10px;"></a>
-                    <nav>
-                        <ul id="nav_list">
-                            <li class="nav-item">
-                                <a href="#home">INÍCIO</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#service">SERVIÇOS</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#about">SOBRE NÓS</a>
-                                </li>
-                            <li class="nav-item">
-                                <a href="#download">DOWNLOADS</a>
-                            </li>
-                        </ul>
-                    </nav>
-                <div class="btn-contato">
-                    <a href="#"><button>Contato</button></a>
-                </div>
+<header id="header">
+    <div class="container-nav">
+        <div class="flex-nav">
+            <a href="#"><img class="logonav" src="css/images/logo.png" alt="logo"></a>
+            <nav>
+                <ul id="nav_list">
+                    <li class="nav-item"><a href="#home">INÍCIO</a></li>
+                    <li class="nav-item"><a href="#service">SERVIÇOS</a></li>
+                    <li class="nav-item"><a href="#about">SOBRE NÓS</a></li>
+                    <li class="nav-item"><a href="#download">DOWNLOADS</a></li>
+                </ul>
+            </nav>
+            <div class="btn-contato">
+                <a href="#"><button>Contato</button></a>
             </div>
         </div>
-    </header>
+    </div>
+</header>
         
     <section class="banner">
         <h1>DESCUBRA O NOVO RH</h1>
